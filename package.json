@@ -20,7 +20,7 @@
     "moment": "^2.24.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "node-watch": "^0.6.3"
   }
 }
